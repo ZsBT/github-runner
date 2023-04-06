@@ -1,2 +1,1 @@
-# github-runner
-debian-based, self-hosted runner for github
+the two files explain everything
